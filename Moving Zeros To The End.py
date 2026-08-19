@@ -16,3 +16,6 @@ while current_num <= zero_num:
     current_num += 1
 
 print(y, current_num)
+
+#after running, Execution Timed Out (12000 ms), i.e, my code is inefficient and needs further optimization
+
