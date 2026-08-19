@@ -18,4 +18,5 @@ while current_num <= zero_num:
 print(y, current_num)
 
 #after running, Execution Timed Out (12000 ms), i.e, my code is inefficient and needs further optimization
+#the time complexity for this program would be O(n^2) since there is a nested loop.
 
